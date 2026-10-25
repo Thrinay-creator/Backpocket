@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": "item-1",
+      "description": "Dark blue wireless earbuds with a compact charging case.",
+      "location": "442 lab",
+      "photoUrl": "https://i.ibb.co/27mKzQmX/Whats-App-Image-2026-09-11-at-10-17-16-AM.jpg",
+      "category": "Electronics",
+      "dateAdded": "2026-07-11T10:30:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-2",
+      "description": "wireless mouse with a compact ergonomic design and a scroll wheel name croma.",
+      "location": "442 lab",
+      "photoUrl": "https://i.ibb.co/4rYyXbp/Whats-App-Image-2026-09-11-at-10-17-21-AM.jpg",
+      "category": "Electronics",
+      "dateAdded": "2026-06-11T10:35:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-3",
+      "description": "silver wristwatch with a round dial and a dark metal bracelet company peter england.",
+      "location": "247 lab",
+      "photoUrl": "https://i.ibb.co/4R7pJ9yG/Whats-App-Image-2026-09-11-at-10-17-25-AM.jpg",
+      "category": "Other",
+      "dateAdded": "2026-01-11T10:40:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-4",
+      "description": "Black wireless mouse with a rounded ergonomic design and a scroll wheel. Found on a desk in the lab.",
+      "location": "442 lab",
+      "photoUrl": "https://i.ibb.co/BVYc636Z/Whats-App-Image-2026-09-11-at-10-17-53-AM.jpg",
+      "category": "Electronics",
+      "dateAdded": "2026-04-11T10:00:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-5",
+      "description": "Silver metal wristwatch with a round skeleton-style dial, Roman numeral markers, and a metal link bracelet.",
+      "location": "420 classroom",
+      "photoUrl": "https://i.ibb.co/xKPtj83C/Whats-App-Image-2026-09-11-at-10-17-50-AM.jpg",
+      "category": "Other",
+      "dateAdded": "2026-04-11T10:05:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-6",
+      "description": "Set of silver keys with a pink strap and a Hello Kitty character keychain attached.",
+      "location": "Parking lot",
+      "photoUrl": "https://i.ibb.co/GfqZvZ6g/Whats-App-Image-2026-09-11-at-10-17-42-AM.jpg",
+      "category": "Other",
+      "dateAdded": "2026-09-11T10:10:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-7",
+      "description": "Clear transparent-frame eyeglasses with rectangular lenses and slim arms.",
+      "location": "Girls waiting room",
+      "photoUrl": "https://i.ibb.co/fzf6fB4B/Whats-App-Image-2026-09-11-at-10-17-38-AM.jpg",
+      "category": "Other",
+      "dateAdded": "2026-09-11T10:15:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-8",
+      "description": "Brown leather wallet with a compact rectangular design and multiple card slots.",
+      "location": "near Basketball court",
+      "photoUrl": "https://i.ibb.co/dsvprJbM/Whats-App-Image-2026-09-11-at-10-17-28-AM.jpg",
+      "category": "Other",
+      "dateAdded": "2026-08-11T10:20:00.000Z",
+      "status": "available"
+    },
+    {
+      "id": "item-9",
+      "description": "Silver-colored ring with a simple polished band and a small raised detail on the top.",
+      "location": "Gymnasium",
+      "photoUrl": "https://i.ibb.co/MvfqtXY/Whats-App-Image-2026-09-11-at-10-17-24-AM.jpg",
+      "category": "Other",
+      "dateAdded": "2026-09-11T10:25:00.000Z",
+      "status": "available"
+    }
+  ]
+}
